@@ -1,7 +1,7 @@
 'use strict';
 
 // 要素
-const music = new Audio('musics/music.mp3');
+const music = new Audio('music.mp3');
 const play = document.getElementById('play');
 const volumeUp = document.getElementById('volume-up');
 const volumeDown = document.getElementById('volume-down');
